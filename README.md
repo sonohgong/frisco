@@ -1,0 +1,2 @@
+# frisco
+mDNS/SSDP discovery
